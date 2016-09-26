@@ -1,0 +1,6 @@
+c:\users\sambhav.patni\documents\visual studio 2012\Projects\AutoInternationalize\AutoInternationalize\bin\Debug\AutoInternationalize.exe.config
+C:\Users\sambhav.patni\Documents\Visual Studio 2012\Projects\AutoInternationalize\AutoInternationalize\obj\Debug\AutoInternationalize.csprojResolveAssemblyReference.cache
+C:\Users\sambhav.patni\Documents\Visual Studio 2012\Projects\AutoInternationalize\AutoInternationalize\bin\Debug\AutoInternationalize.exe
+C:\Users\sambhav.patni\Documents\Visual Studio 2012\Projects\AutoInternationalize\AutoInternationalize\bin\Debug\AutoInternationalize.pdb
+C:\Users\sambhav.patni\Documents\Visual Studio 2012\Projects\AutoInternationalize\AutoInternationalize\obj\Debug\AutoInternationalize.exe
+C:\Users\sambhav.patni\Documents\Visual Studio 2012\Projects\AutoInternationalize\AutoInternationalize\obj\Debug\AutoInternationalize.pdb
